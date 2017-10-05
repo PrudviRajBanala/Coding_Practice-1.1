@@ -28,11 +28,5 @@ public class A_Pair_Of_Array_Of_Size_n_Sum_Is_X {
                 }
             }
         }    
-    }
-    
-    /*
-        Method 2
-        Using Sorting
-        */
-      
+    }  
 }
