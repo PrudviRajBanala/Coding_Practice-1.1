@@ -36,14 +36,10 @@ public class B_Pair_Of_Array_Of_Size_n_Sum_Is_X_Method2 {
                 }
                 
             } 
-            return false;
-            
+            return false;           
     }
-    
-    
     public static void main(String[] args) {
-            addPair();
-            
+            addPair();       
     }
    
  
