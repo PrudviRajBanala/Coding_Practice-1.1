@@ -25,8 +25,8 @@ public class BubbleSorting_descendingOrder {
                 int t=args[j-1];
                 args[j-1]=args[j];
                 args[j]=t;
+                }
             }
         }
-    }
     }
 }
